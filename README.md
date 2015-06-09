@@ -1,10 +1,10 @@
 # InfiniteShooter
 This is the support page for InfiniteShooter 
 
-![](https://github.com/xctom/InfiniteShooter/blob/master/IMG_0823.PNG)
-![](https://github.com/xctom/InfiniteShooter/blob/master/IMG_0824.PNG)
-![](https://github.com/xctom/InfiniteShooter/blob/master/IMG_0825.PNG)
-![](https://github.com/xctom/InfiniteShooter/blob/master/IMG_0826.PNG)
+<img src="https://github.com/xctom/InfiniteShooter/blob/master/IMG_0823.PNG" width="200" />
+<img src="https://github.com/xctom/InfiniteShooter/blob/master/IMG_0824.PNG" width="200" />
+<img src="https://github.com/xctom/InfiniteShooter/blob/master/IMG_0825.PNG" width="200" />
+<img src="https://github.com/xctom/InfiniteShooter/blob/master/IMG_0826.PNG" width="200" />
 
 # Description
 Infinite Shooter is a space shooter game for iPhone. In this game, user will face infinite enemies and your mission is to survive as possible as you can.
